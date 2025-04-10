@@ -1,8 +1,8 @@
-[🇬🇧 English](#english) | [🇷🇺 Русский](#русский)
+[🇪🇳 English](#english) | [🇷🇺 Русский](#русский)
 
 ---
 
-## 🇬🇧 English
+## 🇪🇳 English
 
 ### Video Duration Scanner
 
